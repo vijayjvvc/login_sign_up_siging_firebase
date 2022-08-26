@@ -10,3 +10,7 @@ Build for platforms
 1. Android
 2. iOS
 3. Web
+
+
+https://user-images.githubusercontent.com/67819608/186874737-3ebd5bae-ab5a-427c-8950-945b2d31f22b.mp4
+
